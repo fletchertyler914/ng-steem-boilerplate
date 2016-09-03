@@ -1,0 +1,20 @@
+{
+    "name": "NgSteem",
+    "version": "1.0.0",
+    "description": "AngularJS 1.5.8 Boilerplate With Steem.JS Library",
+    "main": "index.js",
+    "keywords": [
+      "angular",
+      "angularjs",
+      "steem",
+      "steemit",
+      "blockchain",
+      "steemjs",
+      "cryptocurrency"
+  ],
+    "author": "Tyler Fletcher <fletchertyler914@yahoo.com> (https://github.com/fletchertyler914)",
+    "dependencies": {
+        "angular": "^1.5.8",
+        "steem": "^0.3.17"
+    }
+}

@@ -1,0 +1,10 @@
+<div>
+    <h3>Steemit Username: </h3>
+    <input type="text" ng-model="userName" placeholder="tyler-fletcher" /><br><br>
+    <button ng-click="model.getAccount(userName)">Get User Data</button>
+</div>
+
+<div>
+    <p>Name: {{model.username}}</p>
+    <p>Steem Power: {{model.vesting_shares}}</p>
+</div>
